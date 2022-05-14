@@ -1,0 +1,23 @@
+{
+  "name": "creative_design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:dist/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregoryharris869/creative_design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregoryharris869/creative_design/issues"
+  },
+  "homepage": "https://github.com/gregoryharris869/creative_design#readme",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
